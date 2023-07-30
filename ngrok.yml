@@ -1,0 +1,11 @@
+version: "2"
+authtoken: 7rVevA5bTWyWhrnztScoh_4JAxKkZMEcuaqpdbyqGen
+
+tunnels:
+  ssh:
+    proto: tcp
+    addr: localhost:22
+
+  rdp:
+    proto: tcp
+    addr: localhost:3389
