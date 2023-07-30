@@ -4,8 +4,8 @@ authtoken: 7rVevA5bTWyWhrnztScoh_4JAxKkZMEcuaqpdbyqGen
 tunnels:
   ssh:
     proto: tcp
-    addr: localhost:22
+    addr: localhost:2222
 
   rdp:
     proto: tcp
-    addr: localhost:3389
+    addr: localhost:13388
