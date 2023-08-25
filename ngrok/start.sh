@@ -15,4 +15,4 @@ else
     echo "13388端口已经开放"
 fi
 
-ngrok start --all --config=tunnels.yml
+ngrok start --all --config=tunnels.yml --region ap
